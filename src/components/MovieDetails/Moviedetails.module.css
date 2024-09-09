@@ -1,0 +1,25 @@
+.container {
+  display: flex;
+}
+img{
+    border-radius: 10px;
+}
+
+.infoContainer {
+  padding: 10px;
+  background-color: rgb(218, 218, 218);
+  border-radius: 10px;
+}
+
+.title {
+  color: rgb(148, 31, 31);
+}
+
+.subTitle {
+  color: rgb(148, 31, 31);
+}
+
+.text {
+  font-size: 16px;
+  color: rgb(56, 56, 56);
+}

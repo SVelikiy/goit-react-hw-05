@@ -1,0 +1,9 @@
+.title {
+  text-decoration: underline;
+  color: rgb(235, 0, 0);
+}
+.container {
+  padding: 15px;
+  border-radius: 10px;
+  background-color: rgb(231, 230, 230);
+}
