@@ -36,7 +36,7 @@ export default function MovieDetailsPage() {
       }
     }
     getMovieInfo();
-  }, []);
+  }, [movieId]);
 
   return loader ? (
     <Circles />

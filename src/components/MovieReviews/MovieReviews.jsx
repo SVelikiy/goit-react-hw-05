@@ -21,7 +21,7 @@ export default function MovieReviews() {
       }
     }
     getReviews();
-  }, []);
+  }, [movieId]);
 
   return loader ? (
     <Circles />

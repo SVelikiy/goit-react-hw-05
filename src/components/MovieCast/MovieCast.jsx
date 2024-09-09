@@ -24,7 +24,7 @@ export default function MovieCast() {
       }
     }
     Casts();
-  }, []);
+  }, [movieId]);
 
   return loader ? (
     <Circles />
